@@ -1,0 +1,10 @@
+.nav-style {
+	font-weight: 600;
+}
+
+.nav-style:focus {
+	font-weight: bold;
+	color: red;
+	border-bottom: 3px solid red;;
+	transition: ease-in;
+}
